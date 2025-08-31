@@ -1,1 +1,1 @@
-https://github.com/Luther237/MyCV
+https://roadmap.sh/projects/single-page-cv
